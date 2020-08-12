@@ -1,4 +1,5 @@
 package com.kishor.kotlin.mvvm.viewmodel
 
-class MainViewModel {
-}
+import androidx.lifecycle.ViewModel
+
+class MainViewModel : ViewModel()

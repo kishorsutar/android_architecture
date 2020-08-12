@@ -1,6 +1,7 @@
 package com.kishor.kotlin.mvvm.viewmodel
 
-import org.junit.Assert.assertNotNull
+import androidx.lifecycle.ViewModel
+import org.junit.Assert.*
 import org.junit.Test
 
 class MainViewModelTest {
@@ -9,5 +10,11 @@ class MainViewModelTest {
     fun verifyMainViewModelIsPresent() {
         val sut = MainViewModel()
         assertNotNull(sut)
+    }
+
+    @Test
+    fun verifyMainViewModelIsViewModel() {
+        val sut = MainViewModel()
+        assertTrue(sut is ViewModel)
     }
 }
