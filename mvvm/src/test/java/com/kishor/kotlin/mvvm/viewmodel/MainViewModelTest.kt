@@ -23,4 +23,9 @@ class MainViewModelTest {
     fun verifyMainViewModelIsViewModel() {
         assertTrue(sut is ViewModel)
     }
+
+    @Test
+    fun verifyMainViewModelHasDisplayString() {
+        assertEquals("MVVM", sut.displayString)
+    }
 }
