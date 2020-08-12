@@ -7,7 +7,7 @@ import org.junit.Test
 
 class MainViewModelTest {
 
-    lateinit var sut : MainViewModel
+    lateinit var sut: MainViewModel
 
     @Before
     fun init() {
@@ -17,11 +17,6 @@ class MainViewModelTest {
     @Test
     fun verifyMainViewModelIsPresent() {
         assertNotNull(sut)
-    }
-
-    @Test
-    fun verifyMainViewModelIsViewModel() {
-        assertTrue(sut is ViewModel)
     }
 
     @Test
