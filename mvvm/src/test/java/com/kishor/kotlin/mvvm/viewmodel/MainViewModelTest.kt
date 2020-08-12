@@ -1,6 +1,6 @@
 package com.kishor.kotlin.mvvm.viewmodel
 
-import junit.framework.Assert.assertNotNull
+import org.junit.Assert.assertNotNull
 import org.junit.Test
 
 class MainViewModelTest {
