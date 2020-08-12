@@ -1,7 +1,8 @@
-package com.kishor.kotlin.mvvm
+package com.kishor.kotlin.mvvm.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.kishor.kotlin.mvvm.R
 
 class MainActivity : AppCompatActivity() {
 
