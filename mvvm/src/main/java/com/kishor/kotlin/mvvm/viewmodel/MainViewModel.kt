@@ -1,5 +1,6 @@
 package com.kishor.kotlin.mvvm.viewmodel
 
-import androidx.lifecycle.ViewModel
+import android.app.Application
+import androidx.lifecycle.AndroidViewModel
 
-class MainViewModel(val displayString: String = "MVVM") : ViewModel()
+class MainViewModel(application: Application, val displayString: String = "MVVM") : AndroidViewModel(application)
