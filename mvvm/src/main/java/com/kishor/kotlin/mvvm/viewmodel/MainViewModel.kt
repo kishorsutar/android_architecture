@@ -1,6 +1,10 @@
 package com.kishor.kotlin.mvvm.viewmodel
 
-import android.app.Application
-import androidx.lifecycle.AndroidViewModel
+import androidx.lifecycle.ViewModel
 
-class MainViewModel(application: Application, val displayString: String = "MVVM") : AndroidViewModel(application)
+class MainViewModel(val displayString: String = "MVVM") : ViewModel() {
+
+    fun displayCounter(): String {
+        return "0"
+    }
+}
