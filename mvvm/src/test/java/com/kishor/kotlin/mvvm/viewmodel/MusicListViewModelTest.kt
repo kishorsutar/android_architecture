@@ -23,4 +23,9 @@ class MusicListViewModelTest {
     fun verifyMainViewModelHasDisplayString() {
         assertEquals("MVVM", sut.displayString)
     }
+
+    @Test
+    fun verifyMainViewModelDisplaysCounter() {
+        assertEquals("0", sut.displayCounter())
+    }
 }
