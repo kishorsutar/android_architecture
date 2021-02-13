@@ -5,13 +5,13 @@ import org.junit.Assert.assertNotNull
 import org.junit.Before
 import org.junit.Test
 
-class MainViewModelTest {
+class MusicListViewModelTest {
 
-    lateinit var sut: MainViewModel
+    lateinit var sut: MusicListViewModel
 
     @Before
     fun init() {
-        sut = MainViewModel()
+        sut = MusicListViewModel()
     }
 
     @Test
