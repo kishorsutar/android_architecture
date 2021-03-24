@@ -19,6 +19,6 @@ class MainActivityTests {
 
     @Test
     fun testEvent() {
-        onView(withId(R.id.counter)).check(matches(withText("0")))
+        onView(withId(R.id.fragment_container)).check(matches(withText("0")))
     }
 }
