@@ -1,7 +1,7 @@
 package com.kishor.architecture.mvp.di
 
-import com.kishor.architecture.mvp.repository.SongRepository
-import com.kishor.architecture.mvp.repository.SongsRepositoryImpl
+import com.kishor.architecture.mvp.repository.songs.SongRepository
+import com.kishor.architecture.mvp.repository.songs.SongsRepositoryImpl
 
 class DependencyInjectorImpl : DependencyInjector {
 

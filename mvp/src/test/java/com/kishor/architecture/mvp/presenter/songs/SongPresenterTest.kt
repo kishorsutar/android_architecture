@@ -1,9 +1,11 @@
 package com.kishor.architecture.mvp.presenter
 
 import com.kishor.architecture.mvp.di.DependencyInjector
-import com.kishor.architecture.mvp.repository.SongRepository
-import com.kishor.architecture.mvp.ui.SongPresenter
-import com.kishor.architecture.mvp.ui.SongState
+import com.kishor.architecture.mvp.presenter.songs.Song
+import com.kishor.architecture.mvp.presenter.songs.SongScreenContract
+import com.kishor.architecture.mvp.repository.songs.SongRepository
+import com.kishor.architecture.mvp.ui.songs.SongPresenter
+import com.kishor.architecture.mvp.ui.songs.SongState
 import com.nhaarman.mockito_kotlin.mock
 import com.nhaarman.mockito_kotlin.verify
 import org.junit.After

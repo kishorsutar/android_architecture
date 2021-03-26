@@ -1,10 +1,10 @@
-package com.kishor.architecture.mvp.ui
+package com.kishor.architecture.mvp.ui.songs
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.kishor.architecture.mvp.R
 import com.kishor.architecture.mvp.di.DependencyInjectorImpl
-import com.kishor.architecture.mvp.presenter.SongScreenContract
+import com.kishor.architecture.mvp.presenter.songs.SongScreenContract
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity(R.layout.activity_main), SongScreenContract.View {

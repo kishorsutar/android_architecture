@@ -1,7 +1,8 @@
-package com.kishor.architecture.mvp.presenter
+package com.kishor.architecture.mvp.presenter.songs
 
+import com.kishor.architecture.mvp.presenter.BasePresenter
 import com.kishor.architecture.mvp.ui.BaseView
-import com.kishor.architecture.mvp.ui.SongState
+import com.kishor.architecture.mvp.ui.songs.SongState
 
 interface SongScreenContract {
 
