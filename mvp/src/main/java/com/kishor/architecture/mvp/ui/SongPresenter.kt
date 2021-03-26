@@ -32,6 +32,6 @@ class SongPresenter(view: SongScreenContract.View,
     }
 
     private fun songStateForSongScreen(song: Song): SongState {
-        return SongState(song.raag, song.name)
+        return SongState(song.name, song.raag)
     }
 }
