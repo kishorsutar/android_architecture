@@ -1,9 +1,8 @@
-package com.kishor.architecture.mvp.ui.songs
+package com.kishor.architecture.mvp.presenter.songs
 
 import com.kishor.architecture.mvp.di.DependencyInjector
-import com.kishor.architecture.mvp.presenter.songs.Song
-import com.kishor.architecture.mvp.presenter.songs.SongScreenContract
 import com.kishor.architecture.mvp.repository.songs.SongRepository
+import com.kishor.architecture.mvp.ui.songs.SongState
 
 class SongPresenter(view: SongScreenContract.View,
                     dependencyInjector: DependencyInjector) : SongScreenContract.Presenter {
