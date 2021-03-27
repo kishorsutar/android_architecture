@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/SOLID" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/designpatterns" />
+            <option value="$PROJECT_DIR$/kotlin_ideomatic" />
             <option value="$PROJECT_DIR$/mvp" />
             <option value="$PROJECT_DIR$/mvvm" />
           </set>
