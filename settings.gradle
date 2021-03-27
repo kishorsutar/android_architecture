@@ -1,3 +1,4 @@
+include ':SOLID'
 include ':mvp'
 include ':mvvm'
 include ':app'
