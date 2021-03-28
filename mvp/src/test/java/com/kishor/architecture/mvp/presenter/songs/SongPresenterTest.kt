@@ -3,16 +3,18 @@ package com.kishor.architecture.mvp.presenter.songs
 import com.kishor.architecture.mvp.di.DependencyInjector
 import com.kishor.architecture.mvp.repository.songs.SongRepository
 import com.kishor.architecture.mvp.ui.songs.SongState
-import com.nhaarman.mockito_kotlin.mock
-import com.nhaarman.mockito_kotlin.verify
 import org.junit.After
 import org.junit.Before
 import org.junit.Test
+import org.mockito.Mockito.mock
+import org.mockito.Mockito.verify
 
 class SongPresenterTest {
-    private var mockSongActivity: SongScreenContract.View = mock()
+    private var mockSongActivity: SongScreenContract.View =
+        mock(SongScreenContract.View::class.java)
     private val dependencyInjector: DependencyInjector = StubDependencyInjector()
     private var presenter: SongPresenter? = null
+
 
     @Before
     fun setUp() {
