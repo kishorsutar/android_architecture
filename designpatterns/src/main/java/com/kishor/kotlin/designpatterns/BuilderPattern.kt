@@ -7,15 +7,9 @@ class OutFit(val shirt: Shirt, val pant: Pant, val shoes: Shoes) {
     // etc...
 }
 
-class Shoes {
+class Shoes
 
-}
-
-class Pant {
-
-}
+class Pant
 
 
-class Shirt {
-
-}
+class Shirt
