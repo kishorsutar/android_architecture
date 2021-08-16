@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d8dc1a4-80be-4af9-b2f2-90be5e0b5490" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Kishor" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qGCTUllGlbFJ9JCwFfLSshM61T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mvp/src/main" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.kishor.architecture.mvp.presenter.songs" />
+      <recent name="com.kishor.architecture.mvp.repository.songs" />
+      <recent name="com.kishor.architecture.mvp.ui.songs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mvp/src/main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mvp/src/main/java/com/kishor/architecture/mvp/ui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="SolidPrinciples" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Android_architecture.SOLID" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kishor.solid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kishor.solid" />
+      <option name="MAIN_CLASS_NAME" value="com.kishor.solid.SolidPrinciples" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolidPrinciples.verifyRobotGreetsProperly" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Android_architecture.SOLID" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kishor.solid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kishor.solid" />
+      <option name="MAIN_CLASS_NAME" value="com.kishor.solid.SolidPrinciples" />
+      <option name="METHOD_NAME" value="verifyRobotGreetsProperly" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Android_architecture.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mvp" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Android_architecture.mvp" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mvvm" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Android_architecture.mvvm" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SongPresenterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Android_architecture.mvp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kishor.architecture.mvp.presenter.songs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kishor.architecture.mvp.presenter.songs" />
+      <option name="MAIN_CLASS_NAME" value="com.kishor.architecture.mvp.presenter.songs.SongPresenterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ByLazyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Android_architecture.kotlin_ideomatic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kishor.kotlin.ideomatic.ByLazyKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Android_architecture.kotlin_ideomatic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kishor.kotlin.ideomatic.LambdaKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LambdaKt" />
+        <item itemvalue="Application.ByLazyKt" />
+        <item itemvalue="Android JUnit.SolidPrinciples" />
+        <item itemvalue="Android JUnit.SolidPrinciples.verifyRobotGreetsProperly" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d8dc1a4-80be-4af9-b2f2-90be5e0b5490" name="Default Changelist" comment="" />
+      <created>1616696547349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616696547349</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added mvp architecture structure">
+      <created>1616714927392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616714927392</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Git ignore updated">
+      <created>1616785754854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616785754854</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Git ignore updated">
+      <created>1616785809417</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616785809417</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated gradle plugins">
+      <created>1616797928785</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616797928785</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added song package">
+      <created>1616798711982</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616798711982</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Activity Tests">
+      <created>1616800124493</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616800124493</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added SOLID principles examples">
+      <created>1616843104909</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616843104909</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Moved presenter package">
+      <created>1616843147574</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616843147574</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Design pattern structure">
+      <created>1616860879935</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616860879935</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added Kotlin idiomatic feature module">
+      <created>1616864667764</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616864667764</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Kotlin by lazy operation">
+      <created>1616865651560</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616865651560</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Kotlin by lazy block">
+      <created>1616882134488</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1616882134488</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Kotlin lambda functions">
+      <created>1616884734921</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1616884734921</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Package name change in test">
+      <created>1616927123885</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1616927123885</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Removed 3rd party lib for mockito">
+      <created>1616967296128</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1616967296128</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Kotlin sealed classes">
+      <created>1617182679926</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1617182679926</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Added mvp architecture structure" />
+    <MESSAGE value="Git ignore updated" />
+    <MESSAGE value="Updated gradle plugins" />
+    <MESSAGE value="Added song package" />
+    <MESSAGE value="Added Activity Tests" />
+    <MESSAGE value="Added SOLID principles examples" />
+    <MESSAGE value="Moved presenter package" />
+    <MESSAGE value="Added Design pattern structure" />
+    <MESSAGE value="Added Kotlin idiomatic feature module" />
+    <MESSAGE value="Kotlin by lazy operation" />
+    <MESSAGE value="Kotlin by lazy block" />
+    <MESSAGE value="Kotlin lambda functions" />
+    <MESSAGE value="Package name change in test" />
+    <MESSAGE value="Removed 3rd party lib for mockito" />
+    <MESSAGE value="Kotlin sealed classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin sealed classes" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="-1149" key="#Plugins" timestamp="1616797555038">
+      <screen x="-425" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="354" y="-1149" key="#Plugins/-425.-1415.2560.1415/0.25.1680.1025@-425.-1415.2560.1415" timestamp="1616797555038" />
+    <state x="603" y="-1056" key="#com.intellij.ide.util.MemberChooser" timestamp="1616842951889">
+      <screen x="-425" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="603" y="-1056" key="#com.intellij.ide.util.MemberChooser/-425.-1415.2560.1415/0.25.1680.1025@-425.-1415.2560.1415" timestamp="1616842951889" />
+    <state x="550" y="-975" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1616843122481">
+      <screen x="-425" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="550" y="-975" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/-425.-1415.2560.1415/0.25.1680.1025@-425.-1415.2560.1415" timestamp="1616843122481" />
+    <state x="348" y="-1178" key="CommitChangelistDialog2" timestamp="1617182679775">
+      <screen x="-425" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="348" y="-1178" key="CommitChangelistDialog2/-425.-1415.2560.1415/0.25.1680.1025@-425.-1415.2560.1415" timestamp="1617182679775" />
+    <state x="348" y="-1199" key="CommitChangelistDialog2/-425.-1440.2560.1440/0.0.1680.1050@-425.-1440.2560.1440" timestamp="1616927123680" />
+    <state x="423" y="41" key="CommitChangelistDialog2/0.25.1680.1025@0.25.1680.1025" timestamp="1616865651407" />
+    <state x="130" y="-1133" key="DiffContextDialog" timestamp="1616785737760">
+      <screen x="-425" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="130" y="-1133" key="DiffContextDialog/-425.-1415.2560.1415/0.25.1680.1025@-425.-1415.2560.1415" timestamp="1616785737760" />
+    <state width="2506" height="261" key="GridCell.Tab.0.bottom" timestamp="1617008107793">
+      <screen x="-425" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2506" height="261" key="GridCell.Tab.0.bottom/-425.-1415.2560.1415/0.25.1680.1025@-425.-1415.2560.1415" timestamp="1617008107793" />
+    <state width="1626" height="172" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1616943532092" />
+    <state width="2506" height="261" key="GridCell.Tab.0.center" timestamp="1617008107793">
+      <screen x="-425" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2506" height="261" key="GridCell.Tab.0.center/-425.-1415.2560.1415/0.25.1680.1025@-425.-1415.2560.1415" timestamp="1617008107793" />
+    <state width="1626" height="172" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1616943532092" />
+    <state width="2506" height="261" key="GridCell.Tab.0.left" timestamp="1617008107792">
+      <screen x="-425" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2506" height="261" key="GridCell.Tab.0.left/-425.-1415.2560.1415/0.25.1680.1025@-425.-1415.2560.1415" timestamp="1617008107792" />
+    <state width="1626" height="172" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1616943532091" />
+    <state width="2506" height="261" key="GridCell.Tab.0.right" timestamp="1617008107793">
+      <screen x="-425" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2506" height="261" key="GridCell.Tab.0.right/-425.-1415.2560.1415/0.25.1680.1025@-425.-1415.2560.1415" timestamp="1617008107793" />
+    <state width="1626" height="172" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1616943532092" />
+    <state x="442" y="-1067" key="NewModule_or_Project.wizard" timestamp="1616798774958">
+      <screen x="-425" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="442" y="-1067" key="NewModule_or_Project.wizard/-425.-1415.2560.1415/0.25.1680.1025@-425.-1415.2560.1415" timestamp="1616798774958" />
+    <state x="246" y="-1159" key="SettingsEditor" timestamp="1616842735940">
+      <screen x="-425" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="246" y="-1159" key="SettingsEditor/-425.-1415.2560.1415/0.25.1680.1025@-425.-1415.2560.1415" timestamp="1616842735940" />
+    <state x="354" y="-1035" key="Vcs.Push.Dialog.v2" timestamp="1617182681677">
+      <screen x="-425" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="354" y="-1035" key="Vcs.Push.Dialog.v2/-425.-1415.2560.1415/0.25.1680.1025@-425.-1415.2560.1415" timestamp="1617182681677" />
+    <state x="354" y="-1054" key="Vcs.Push.Dialog.v2/-425.-1440.2560.1440/0.0.1680.1050@-425.-1440.2560.1440" timestamp="1616927125702" />
+    <state x="511" y="300" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1616864670024" />
+    <state x="564" y="253" width="840" height="750" key="search.everywhere.popup" timestamp="1616950690595">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="434" y="-1100" width="840" height="1034" key="search.everywhere.popup/-425.-1415.2560.1415/0.25.1680.1025@-425.-1415.2560.1415" timestamp="1616882985787" />
+    <state x="564" y="253" width="840" height="750" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1616950690595" />
+  </component>
+</project>
