@@ -8,13 +8,13 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import com.kishor.kotlin.mvvm.R
-import com.kishor.kotlin.mvvm.databinding.FragmentMusicListBinding
+import com.kishor.kotlin.mvvm.databinding.FragmentNewsListBinding
 import com.kishor.kotlin.mvvm.viewmodel.MusicListViewModel
-import kotlinx.android.synthetic.main.fragment_music_list.view.*
 
-class MusicListFragment : Fragment(R.layout.fragment_music_list) {
+class NewsListFragment : Fragment(R.layout.fragment_news_list) {
 
-    private lateinit var _binding: FragmentMusicListBinding
+    private var _binding: FragmentNewsListBinding? = null
+    private val binding get() = _binding
 
     private val viewModel: MusicListViewModel by viewModels()
     override fun onCreateView(
@@ -24,12 +24,17 @@ class MusicListFragment : Fragment(R.layout.fragment_music_list) {
     ): View? {
         Log.i("MusicListFragment", "ViewModel created")
         Log.d("View mode", viewModel.displayString)
-        _binding = FragmentMusicListBinding.inflate(inflater, container, false)
-        return _binding.root
+        _binding = FragmentNewsListBinding.inflate(inflater, container, false)
+        return binding?.root
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        _binding = null
     }
 
     override fun onStart() {
         super.onStart()
-        _binding.root.buttonPanel.text = "jerkweuahkueh"
+        binding?.buttonPanel?.text = "jerkweuahkueh"
     }
 }
