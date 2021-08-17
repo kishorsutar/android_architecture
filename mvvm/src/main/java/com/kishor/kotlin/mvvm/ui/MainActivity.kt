@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
         if (savedInstanceState == null) {
             supportFragmentManager.commit {
                 setReorderingAllowed(true)
-                add<NewsListFragment>(R.id.fragment_container_view)
+                add<MainFragment>(R.id.fragment_container_view)
             }
         }
     }
